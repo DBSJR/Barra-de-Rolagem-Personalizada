@@ -3,4 +3,4 @@ Um pouco de HTML e CSS :)
 
 Para ver o resultado acesse:
 
-https://dbsjr.github.io/Barra-de-Rolagem-Personalizada/
+<a target:_blank href="https://dbsjr.github.io/Barra-de-Rolagem-Personalizada/"> Barra de Rolagem Personalizada </a>
